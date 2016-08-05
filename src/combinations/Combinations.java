@@ -115,4 +115,10 @@ public class Combinations {
 		}
 		return count;
 	}
+	
+	/* a test comment */
+	
+	private void testMethod() {
+		
+	}
 }
